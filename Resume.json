@@ -1,0 +1,40 @@
+{
+    "Head":{
+    "title": "resume",
+    "name":"Paarisena Chakravarthy",
+    "Qualification": "diploma in computer science",
+    "Year of passed out": "2011",
+    "location": "thanjavur"
+     
+    },
+    "work Details":[
+        {
+             "current office":"Omega healthcare PVT ltd",
+             "Previous office": "Arohana Dairy PVT LTD"
+        },
+            
+        {
+             "Title": "Work experience",
+             "sub":[
+
+             "Hold one or more relevant associate level certifications in the fields of Network security.",
+            "Have 4+ years of progressive experience in firewalls Network security",
+             "Professional level understanding of IPsec VPNs as well as real world implementation and troubleshooting experience",
+            "Experience in analyzing and diagnosing DNS/DHCP/VPN and other networking issues.",
+             "Experience in configuring Switches and VLAN",
+             "Experience in Configuring router and basic routing.",
+             "Experience with Fortinet or Palo Alto firewalls",
+            "Responsible for implementing the firewall related changes to the client’s service requests, in accordance with security approval via proper change management",
+           "Provide communications to management on the threat/risk profile of network and data",
+           "ability to implement, configure/modify and troubleshoot switches, VPN configurations, firewalls",
+           "Troubleshoot the slowness related issues in VPN and network related queries",
+           "Help to develop response processes, rules and alert notifications",
+           "Creating security groups such as antivirus, spyware and file blocking etc"
+
+             ]
+        }
+            
+    
+
+    ]
+}
